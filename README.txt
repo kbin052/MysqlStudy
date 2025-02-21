@@ -14,7 +14,7 @@ $ git branch -m master main
 
 //파일 업로드
 $ git pull (또는 git pull origin main)
-$ git add .
+$ git add . (폴더 전체 add)
 $ git commit -m "commit message"
 $ git push (또는 git push origin main)
 
